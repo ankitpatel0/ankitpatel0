@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpatel0" alt="ankitpatel0" /></a> </p>
 
-- 🔭 I’m currently working on [Customer Churn Prediction](https://github.com/ankitpatel0/Customer-Churn-Prediction)
+- 🔭 I’m currently working on [Power-Bi-Guvi-Virtual-Internship](https://github.com/ankitpatel0/Power-Bi-Guvi-Virtual-Internship)
 
 - 🌱 I’m currently learning **DSA With Java and Web Development**
 
